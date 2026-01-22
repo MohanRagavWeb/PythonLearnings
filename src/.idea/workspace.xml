@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17796ba4-1aee-45bf-afba-5dace885e8b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Modules_Packages_Practice/Multiply.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules_Packages_Practice/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules_Packages_Practice/addition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules_Packages_Practice/calci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules_Packages_Practice/subtraction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="17796ba4-1aee-45bf-afba-5dace885e8b3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,7 +111,7 @@
       <workItem from="1768914261702" duration="118000" />
       <workItem from="1768914910580" duration="261000" />
       <workItem from="1768920674302" duration="620000" />
-      <workItem from="1769061067500" duration="5599000" />
+      <workItem from="1769061067500" duration="6515000" />
     </task>
     <servers />
   </component>
