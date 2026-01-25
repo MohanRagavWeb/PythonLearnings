@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17796ba4-1aee-45bf-afba-5dace885e8b3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/FileHandling/practice.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +53,7 @@
     "Python.lists.executor": "Run",
     "Python.mutableinFunction.executor": "Run",
     "Python.packageimport.executor": "Run",
+    "Python.practice.executor": "Run",
     "Python.subtraction.executor": "Run",
     "Python.tuple.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
@@ -118,6 +120,8 @@
       <workItem from="1768914910580" duration="261000" />
       <workItem from="1768920674302" duration="620000" />
       <workItem from="1769061067500" duration="9799000" />
+      <workItem from="1769240557255" duration="454000" />
+      <workItem from="1769306158549" duration="3868000" />
     </task>
     <servers />
   </component>
@@ -127,6 +131,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/src$packageimport.coverage" NAME="packageimport Coverage Results" MODIFIED="1769078079190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/src$Recursion1.coverage" NAME="Recursion1 Coverage Results" MODIFIED="1769070290046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/src$practice.coverage" NAME="practice Coverage Results" MODIFIED="1769310209753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FileHandling" />
     <SUITE FILE_PATH="coverage/src$Recursion2.coverage" NAME="Recursion2 Coverage Results" MODIFIED="1769070440785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/src$subtraction.coverage" NAME="subtraction Coverage Results" MODIFIED="1769075501817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules_Packages_Practice" />
     <SUITE FILE_PATH="coverage/src$Append_Extend.coverage" NAME="Append_Extend Coverage Results" MODIFIED="1769086498694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lists" />
