@@ -5,14 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17796ba4-1aee-45bf-afba-5dace885e8b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/API Integeration/api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorators/decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generators/generators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HigherOrderFunction/filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HigherOrderFunction/map.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HigherOrderFunction/mini.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HigherOrderFunction/reduce.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda/lambda.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,7 +130,7 @@
       <workItem from="1769061067500" duration="9799000" />
       <workItem from="1769240557255" duration="454000" />
       <workItem from="1769306158549" duration="4623000" />
-      <workItem from="1769505425288" duration="982000" />
+      <workItem from="1769505425288" duration="1981000" />
     </task>
     <servers />
   </component>
